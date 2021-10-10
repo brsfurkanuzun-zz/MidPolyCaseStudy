@@ -64,10 +64,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ColisionController.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Scripts\PathCreator.cs" />
-    <Compile Include="Assets\Scripts\PathMover.cs" />
+    <Compile Include="Assets\Scripts\Collision Controller\ColisionController.cs" />
+    <Compile Include="Assets\Scripts\Game Manager\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Path\PathCreator.cs" />
+    <Compile Include="Assets\Scripts\Path\PathMover.cs" />
     <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
     <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
     <Reference Include="Unity.Timeline.Editor">
